@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TMSApp</string>
+    <string name="login_button">Login</string>
+    <string name="login_name_label">Login Name</string>
+    <string name="password_label">Password</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_destination">Destinations</string>
+    <string name="title_checkpoint">Checkpoints</string>
+    <string name="title_update">Update</string>
+    <string name="title_drivers">Active Drivers</string>
+    <string name="name_label">Name</string>
+    <string name="surname_label">Surname</string>
+    <string name="email_label">Email</string>
+    <string name="phone_label">Phone</string>
+    <string name="birthday_label">Birth Date</string>
+    <string name="licence_label">Driver Licence Number</string>
+    <string name="go_back_button">Go Back</string>
+</resources>
